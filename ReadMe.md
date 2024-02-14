@@ -1,5 +1,5 @@
 # 💫 About Me:
- - Estudante de Análise e Desenvolvimento de Sistemas<br> - Canoas/RS
+ - Estudante de Análise e Desenvolvimento de Sistemas<br> - <strong>Canoas/RS</strong>
 
 
 ## 🌐 Socials:
