@@ -1,5 +1,6 @@
 # 💫 About Me:
  - Estudante de Análise e Desenvolvimento de Sistemas<br>
+ - Estudando Node.JS e Python
  - Professor de Matemática
 
 
