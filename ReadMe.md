@@ -29,6 +29,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KevinReys&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![](https://starchart.cc/{KevinReys}/{repo}.svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
