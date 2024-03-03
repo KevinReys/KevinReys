@@ -2,12 +2,17 @@
  🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
 
  ## 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 150px; width: auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 150px; width: auto;">
- ![](https://github-readme-streak-stats.herokuapp.com/?user=KevinReys&theme=dark&hide_border=false)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <div style="flex: 1; margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 150px; width: auto;">
+    </div>
+    <div style="flex: 1; margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 150px; width: auto;">
+    </div>
+    <div style="flex: 1; margin: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinReys&theme=dark&hide_border=false" alt="GitHub Streak" style="height: 150px; width: auto;">
+    </div>
 </div>
-
 
 
 # 🌐 Socials:
