@@ -2,9 +2,8 @@
  🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
 
  ## 📊 GitHub Stats:
- 
-![](https://github-readme-stats.vercel.app/api?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KevinReys&theme=dark&hide_border=false)
 
 
