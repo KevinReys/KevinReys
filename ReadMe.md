@@ -2,8 +2,10 @@
  🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
 
  ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
-![](https://github-readme-stats.vercel.app/api?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 150px; width: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 150px; width: auto;">
+</div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KevinReys&theme=dark&hide_border=false)
 
 
