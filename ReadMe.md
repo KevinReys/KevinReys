@@ -3,7 +3,7 @@
  
 Entusiasta de tecnologia e com grande facilidade em simplificar complexidades, busco estágio na área da programação. <br>
 Na área das ciências exatas, adquiri experiência como professor de matemática e física, que me fez aprimorar minha capacidade analítica e resolução de problemas. 
-Com dedicação à eficiência e aprendizado contínuo, estou pronto para contribuir com minha paixão pela programação e habilidades de ensino em um ambiente dinâmico. <br>
+Com dedicação à eficiência e aprendizado contínuo, estou pronto para contribuir com minha paixão pela programação e habilidades de ensino em um ambiente dinâmico.
 A experiência de ensinar fortaleceu minha habilidade de traduzir informações técnicas em linguagem acessível, uma qualidade valiosa para interações eficazes em equipe.
 
  ## 📊 GitHub Stats:
