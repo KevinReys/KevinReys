@@ -24,13 +24,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="display: inline-block; width: 40px; height: 40px;">     
 </div>
           
-## 📚 Studying:
-<div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">     
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block; width: 50px; height: 50px;">                        
-</div>
-
 ## 🔧 Tools & Frameworks:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
@@ -38,7 +31,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="display: inline-block; width: 40px; height: 40px;">           
 </div>
-           
+
+## 📚 Studying:
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">     
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block; width: 50px; height: 50px;">                        
+</div>
+
           
 ---
 [![](https://visitcount.itsvg.in/api?id=KevinReys&icon=0&color=0)](https://visitcount.itsvg.in)
