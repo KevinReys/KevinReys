@@ -20,23 +20,24 @@
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="display: inline-block; width: 40px; height: 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="display: inline-block; width: 40px; height: 40px;">     
 </div>
           
 ## 📚 Studying:
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">     
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block; width: 40px; height: 40px;">                        
 </div>
 
-
 ## 🔧 Tools:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-
-
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="display: inline-block; width: 40px; height: 40px;">           
+</div>
+           
+          
 ---
 [![](https://visitcount.itsvg.in/api?id=KevinReys&icon=0&color=0)](https://visitcount.itsvg.in)
