@@ -34,7 +34,9 @@ A experiência de ensinar fortaleceu minha habilidade de traduzir informações 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="display: inline-block; width: 40px; height: 40px;">           
+
 </div>
 
 ## 📚 Studying:
