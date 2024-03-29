@@ -25,8 +25,8 @@ A experiência de ensinar fortaleceu minha habilidade de traduzir informações 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="display: inline-block; width: 40px; height: 40px;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="display: inline-block; width: 40px; height: 40px;">
-          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">    
+        
 </div>
           
 ## 🔧 Tools & Frameworks:
@@ -39,10 +39,10 @@ A experiência de ensinar fortaleceu minha habilidade de traduzir informações 
 
 ## 📚 Studying:
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">     
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block; width: 50px; height: 50px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="display: inline-block; width: 50px; height: 50px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="display: inline-block; width: 40px; height: 40px;">
           
 </div>
 
