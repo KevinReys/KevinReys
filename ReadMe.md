@@ -43,9 +43,8 @@ A experiência de ensinar fortaleceu minha habilidade de traduzir informações 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block; width: 50px; height: 50px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="display: inline-block; width: 50px; height: 50px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="display: inline-block; width: 40px; height: 40px;">
-          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="display: inline-block; width: 50px; height: 50px;">
 </div>
 
           
