@@ -1,8 +1,8 @@
-# 💫 Hi, I'm Kevin Reys
-Entusiasta de tecnologia e com grande facilidade em simplificar complexidades, busco estágio na área da programação. <br>
-Na área das ciências exatas, adquiri experiência como professor de matemática e física, que me fez aprimorar minha capacidade analítica e resolução de problemas. 
-Com dedicação à eficiência e aprendizado contínuo, estou pronto para contribuir com minha paixão pela programação e habilidades de ensino em um ambiente dinâmico.
-A experiência de ensinar fortaleceu minha habilidade de traduzir informações técnicas em linguagem acessível, uma qualidade valiosa para interações eficazes em equipe.
+# 💫 Hi, I'm Kevin Reys!
+As a technology enthusiast with a knack for simplifying complexities, I am seeking an internship in programming. <br>
+In the field of exact sciences, I have gained experience as a mathematics and physics teacher, which has honed my analytical skills and problem-solving abilities. 
+With dedication to efficiency and continuous learning, I am ready to contribute my passion for programming and teaching skills in a dynamic environment. 
+My teaching experience has strengthened my ability to translate technical information into accessible language, a valuable quality for effective team interactions.
 
 # 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyskev/) 
