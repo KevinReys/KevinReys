@@ -30,16 +30,13 @@ My teaching experience has strengthened my ability to translate technical inform
 
 ## 🔧 Tools & Frameworks:
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="display: inline-block; width: 40px; height: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="display: inline-block; width: 40px; height: 40px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style="display: inline-block; width: 40px; height: 40px;">
   </div>
   
-
 
  ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-around;">
