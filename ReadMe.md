@@ -37,7 +37,7 @@ My teaching experience has strengthened my ability to translate technical inform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="display: inline-block; width: 40px; height: 40px;">
   </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Programmer+DATCH;I+am+Full+Stack+Web+and+App+Developer;I+am+proficient+in+BackEnd;I+am+App+Developer)](https://programmerdatch.netlify.app/)
+![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
 
  ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-around;">
