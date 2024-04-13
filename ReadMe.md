@@ -36,7 +36,11 @@ My teaching experience has strengthened my ability to translate technical inform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="display: inline-block; width: 40px; height: 40px;">
   </div>
-  
+
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerDATCH&layout=compact&theme=material-palenight" alt="DATCH" />
+
+<p align="right">
 
  ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-around;">
