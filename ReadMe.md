@@ -37,7 +37,7 @@ My teaching experience has strengthened my ability to translate technical inform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="display: inline-block; width: 40px; height: 40px;">
   </div>
 
-![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProgrammerDATCH&theme=2077" alt="DATCH" />
 
  ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-around;">
