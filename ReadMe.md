@@ -37,7 +37,6 @@ My teaching experience has strengthened my ability to translate technical inform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="display: inline-block; width: 40px; height: 40px;">
   </div>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinReys&theme=2077" alt="DATCH" />
 
  ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-around;">
@@ -45,7 +44,7 @@ My teaching experience has strengthened my ability to translate technical inform
     <img src="https://github-readme-stats.vercel.app/api?username=KevinReys&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 150px; width: auto;">
 </div>
  <div style="flex: 1; margin: 10px;"> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinReys&theme=dark&hide_border=false" alt="GitHub Streak" style="height: 150px; width: auto;">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinReys&theme=2077" alt="DATCH" />
     </div>
 </div>
           
