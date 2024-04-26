@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Kevin Reys!
+# 💫 Hi, I'm Kevin Reys
 As a technology enthusiast with a knack for simplifying complexities, I am seeking an internship in programming. <br>
 In the field of exact sciences, I have gained experience as a mathematics and physics teacher, which has honed my analytical skills and problem-solving abilities. 
 With dedication to efficiency and continuous learning, I am ready to contribute my passion for programming and teaching skills in a dynamic environment. 
