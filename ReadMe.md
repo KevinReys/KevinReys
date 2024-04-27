@@ -19,8 +19,6 @@ My teaching experience has strengthened my ability to translate technical inform
 
 ## 📚 Studying:
 <div>
-  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">       
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;"> 
