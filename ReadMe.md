@@ -12,9 +12,10 @@ My teaching experience has strengthened my ability to translate technical inform
 ## 💻 Programming Languages:
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="display: inline-block; width: 40px; height: 40px;">      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="display: inline-block; width: 40px; height: 40px;">      
+    
 </div>
 
 ## 📚 Studying:
