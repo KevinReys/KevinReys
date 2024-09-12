@@ -1,21 +1,16 @@
-# 💫 Hi, I'm Kevin Reys
-
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_reyskevin) 
 
 
 ## 💻 Programming Languages:
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">       
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="display: inline-block; width: 40px; height: 40px;">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="display: inline-block; width: 40px; height: 40px;">
 </div>
 
 ## 🔧 Tools & Frameworks:
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="display: inline-block; width: 50px; height: 50px; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="display: inline-block; width: 40px; height: 40px; margin-right: 10px;">
